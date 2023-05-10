@@ -7,5 +7,6 @@ int main(void){
 	printf("Bonjour le monde!\n");
 	printf("test2");
 	printf("test 1");
+	printf("test 2");
 	return 0;
 }
